@@ -21,5 +21,3 @@ jobs:
           path-to-cla-document: 'https://github.com/mindsdb/mindsdb/blob/stable/CONTRIBUTING.md'
           branch: 'master'
           allowlist: bot*
-          empty-commit-flag: false
-          blockchain-storage-flag: false
